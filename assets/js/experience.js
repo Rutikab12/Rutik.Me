@@ -5,7 +5,7 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [{
         title: "Graduate Engineer Trainee",
-        cardImage: "assets/images/experience-page/_VOIS logo.jpg",
+        cardImage: "assets/images/experience-page/vois logo.jpg",
         place: "Vodafone Intelligent Services",
         time: "(Upcoming - Aug, 2022)",
         desp: "<li>_VOIS, Pune</li>",
